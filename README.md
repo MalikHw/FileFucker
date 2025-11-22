@@ -1,2 +1,2 @@
 # FileFucker
-a php site for file sharing
+Source code for FileFucker
